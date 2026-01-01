@@ -26,3 +26,13 @@ This is a solution to the QR code component challenge on Frontend Mentor. The pr
   
 - Live Site URL: [https://jiggy-lab.github.io/qr-code-component-/](https://jiggy-lab.github.io/qr-code-component-/)
   
+## My Process
+
+### Built with 
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I learned 
+In this project, i learnt how to properly center a component using Flexbox. I also learnt two new CSS properties, . Coupled with deploying a live site using GitHub pages. And finally, i practiced managing image paths and organising my repository.
