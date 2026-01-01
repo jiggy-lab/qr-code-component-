@@ -39,4 +39,3 @@ In this project, i learnt how to properly center a component using Flexbox. I al
 
 - Frontend Mentor - [@jiggy-lab](https://www.frontendmentor.io/profile/jiggy-lab)
 - GitHub - [jiggy-lab](https://github.com/jiggy-lab)
-- 
