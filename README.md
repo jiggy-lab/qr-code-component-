@@ -35,4 +35,4 @@ This is a solution to the QR code component challenge on Frontend Mentor. The pr
 - Mobile-first workflow
 
 ### What I learned 
-In this project, i learnt how to properly center a component using Flexbox. I also learnt two new CSS properties, . Coupled with deploying a live site using GitHub pages. And finally, i practiced managing image paths and organising my repository.
+In this project, i learnt how to properly center a component using Flexbox. I also learnt two new CSS properties, letter spacing, line height. Coupled with deploying a live site using GitHub pages. And finally, i practiced managing image paths and organising my repository.
