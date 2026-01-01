@@ -12,3 +12,9 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview 
+
+This is a solution to the QR code component challenge on Frontend Mentor. The project focused on creating a respsonive card layout that matches a specific design provided in Figma.
+
+### Screenshots
+
+![My Solution](./Screenshot.jpg)
