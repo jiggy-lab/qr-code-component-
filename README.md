@@ -19,3 +19,10 @@ This is a solution to the QR code component challenge on Frontend Mentor. The pr
 ### Screenshots
 
 ![My Solution](./Screenshot.jpg)
+
+### Links
+
+- Solution URL: [https://github.com/jiggy-lab/qr-code-component-](https://github.com/jiggy-lab/qr-code-component-)
+  
+- Live Site URL: [https://jiggy-lab.github.io/qr-code-component-/](https://jiggy-lab.github.io/qr-code-component-/)
+  
